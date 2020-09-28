@@ -1,0 +1,25 @@
+header {
+
+    background-color: #Ff1f1f;
+    text-align: center;
+    padding: 20px;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 34px;
+}
+
+.topnav {
+    float: left;
+    display: block;
+    color:green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color:yellow;
+}
+
+
+.topnav:active{
+    background-color:#d3dd;
+    color: black;
+}
